@@ -1,0 +1,25 @@
+# The campus from the lecture: 6 buildings, 9 possible cables (cost = cable price)
+node A Server Room
+node B Lab 1
+node C Lab 2
+node D Hall 1
+node E Hall 2
+node F Library
+
+# positions only for drawing
+pos A 0 1
+pos B 1 2
+pos C 1 0
+pos D 2 2
+pos E 2 0
+pos F 3 1
+
+edge A B 4
+edge A C 3
+edge B C 2
+edge B D 7
+edge C D 5
+edge C E 8
+edge D E 2
+edge D F 6
+edge E F 3

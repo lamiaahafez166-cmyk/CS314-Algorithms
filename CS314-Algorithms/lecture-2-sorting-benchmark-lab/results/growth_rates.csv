@@ -1,0 +1,16 @@
+algorithm,case,fitted_exponent_k
+insertion,sorted,1.03
+insertion,reversed,2.07
+insertion,random,2.00
+merge,sorted,1.09
+merge,reversed,1.08
+merge,random,1.09
+quick,sorted,2.01
+quick,reversed,2.00
+quick,random,1.13
+quick_random_pivot,sorted,1.07
+quick_random_pivot,reversed,1.07
+quick_random_pivot,random,1.09
+python_sorted,sorted,1.19
+python_sorted,reversed,1.25
+python_sorted,random,1.18

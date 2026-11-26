@@ -1,0 +1,9 @@
+Python:   3.12.3 (CPython)
+Platform: Linux-6.18.44-fc-v880-x86_64-with-glibc2.39
+Machine:  x86_64
+CPU(s):                                  1
+Model name:                              Intel(R) Xeon(R) Processor @ 2.30GHz
+L1d cache:                               48 KiB (1 instance)
+L2 cache:                                2 MiB (1 instance)
+L3 cache:                                504 MiB (1 instance)
+g++:      g++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0

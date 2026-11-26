@@ -1,0 +1,23 @@
+n=  100 sorted   insertion=    0.003 ms  merge=   0.361 ms  comps=       99 shifts=        0
+n=  100 reverse  insertion=    0.142 ms  merge=   0.050 ms  comps=     4950 shifts=     4950
+n=  100 random   insertion=    0.072 ms  merge=   0.065 ms  comps=     2597 shifts=     2502
+n=  500 sorted   insertion=    0.022 ms  merge=   0.305 ms  comps=      499 shifts=        0
+n=  500 reverse  insertion=    3.870 ms  merge=   0.286 ms  comps=   124750 shifts=   124750
+n=  500 random   insertion=    2.135 ms  merge=   0.431 ms  comps=    63562 shifts=    63073
+n= 1000 sorted   insertion=    0.050 ms  merge=   0.616 ms  comps=      999 shifts=        0
+n= 1000 reverse  insertion=   17.696 ms  merge=   0.607 ms  comps=   499500 shifts=   499500
+n= 1000 random   insertion=    9.516 ms  merge=   0.884 ms  comps=   253213 shifts=   252225
+n= 2000 sorted   insertion=    0.095 ms  merge=   1.238 ms  comps=     1999 shifts=        0
+n= 2000 reverse  insertion=   76.122 ms  merge=   1.284 ms  comps=  1999000 shifts=  1999000
+n= 2000 random   insertion=   39.999 ms  merge=   1.926 ms  comps=   996394 shifts=   994396
+n= 3000 sorted   insertion=    0.144 ms  merge=   2.088 ms  comps=     2999 shifts=        0
+n= 3000 reverse  insertion=  174.060 ms  merge=   2.030 ms  comps=  4498500 shifts=  4498500
+n= 3000 random   insertion=   91.461 ms  merge=   3.062 ms  comps=  2257558 shifts=  2254566
+n= 4000 sorted   insertion=    0.189 ms  merge=   2.612 ms  comps=     3999 shifts=        0
+n= 4000 reverse  insertion=  322.330 ms  merge=   2.589 ms  comps=  7998000 shifts=  7998000
+n= 4000 random   insertion=  154.234 ms  merge=   4.133 ms  comps=  3976295 shifts=  3972301
+n= 5000 sorted   insertion=    0.242 ms  merge=   3.292 ms  comps=     4999 shifts=        0
+n= 5000 reverse  insertion=  493.349 ms  merge=   3.447 ms  comps= 12497500 shifts= 12497500
+n= 5000 random   insertion=  249.218 ms  merge=   5.080 ms  comps=  6345469 shifts=  6340474
+
+Done. Files saved in: /home/claude/insertion-sort-analysis/results

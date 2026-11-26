@@ -1,0 +1,10 @@
+# Two separate parts of the campus: there is no spanning tree, only a forest.
+node A Main Gate
+node B Admin
+node C Gym
+node D Dorm 1
+node E Dorm 2
+edge A B 2
+edge B C 4
+edge A C 5
+edge D E 1

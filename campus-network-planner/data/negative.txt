@@ -1,0 +1,4 @@
+# Invalid for Dijkstra: one cable has a negative cost.
+edge A B 4
+edge B C -2
+edge A C 3
